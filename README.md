@@ -67,9 +67,26 @@ The table below provides a brief overview of some common Lithium-ion cell chemis
 | Gravimetric Energy Density            | 215.99 Wh/kg      |
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## CAD Design of Battery
+![image](https://github.com/KetanMe/In-House-Production-of-AIS048-Certified-Li-ion-Battery/assets/121623546/eca4635a-e22d-4eae-a53f-8bdfa3081f46)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Manufacturing 
 
+### Battery Pack
+![WhatsApp Image 2024-05-21 at 23 08 57_4186b5d7](https://github.com/KetanMe/In-House-Production-of-AIS048-Certified-Li-ion-Battery/assets/121623546/fc8cc8ef-7116-4c9a-ac93-e462d444dd93)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Battery Casing
+
+![WhatsApp Image 2024-05-21 at 23 08 58_26ade143](https://github.com/KetanMe/In-House-Production-of-AIS048-Certified-Li-ion-Battery/assets/121623546/55e173d9-d856-4588-85b9-7d77b643486d)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Testing and Certification
+
+![image](https://github.com/KetanMe/In-House-Production-of-AIS048-Certified-Li-ion-Battery/assets/121623546/e1e00de2-f93a-4a23-83f4-fed0a7ce13cc)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
