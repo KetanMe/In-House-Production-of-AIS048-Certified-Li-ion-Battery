@@ -4,7 +4,22 @@
 
 During the year 2021-2022, our team used Li-ion batteries purchased from a regular vendor. However, their performance did not meet the specifications promised in the datasheet. This led us to start manufacturing our own batteries in-house. The process began with research on the cells, followed by CAD development and calculations, then the manufacturing phase, and finally the testing phase.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Index
+
+- [Different Types of Li-ion Cell Chemistries](https://github.com/KetanMe/In-House-Production-of-AIS048-Certified-Li-ion-Battery/edit/main/README.md#different-types-of-li-ion-cell-chemistries)
+- [Table of Shortlisted Li-ion Cells Considered During Research Phase](https://github.com/KetanMe/In-House-Production-of-AIS048-Certified-Li-ion-Battery/edit/main/README.md#table-of-shorlisted-li-ion-cells-considered-during-research-phase)
+- [Table Summarizing the Specifications for the Molicell INR-21700-P42A Cell](https://github.com/KetanMe/In-House-Production-of-AIS048-Certified-Li-ion-Battery/edit/main/README.md#table-summarizing-the-specifications-for-the-molicell-inr-21700-p42a-cell)
+- [Specifications of Battery Pack](https://github.com/KetanMe/In-House-Production-of-AIS048-Certified-Li-ion-Battery/edit/main/README.md#specifications-of-battery-pack)
+- [CAD Design of Battery](https://github.com/KetanMe/In-House-Production-of-AIS048-Certified-Li-ion-Battery/edit/main/README.md#cad-design-of-battery)
+- [Manufacturing](#manufacturing)
+  - [Battery Pack](https://github.com/KetanMe/In-House-Production-of-AIS048-Certified-Li-ion-Battery/edit/main/README.md#battery-pack)
+  - [Battery Casing](https://github.com/KetanMe/In-House-Production-of-AIS048-Certified-Li-ion-Battery/edit/main/README.md#battery-casing)
+- [Testing and Certification](https://github.com/KetanMe/In-House-Production-of-AIS048-Certified-Li-ion-Battery/edit/main/README.md#testing-and-certification)
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Different Types of Li-ion Cell Chemistries
 
